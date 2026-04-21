@@ -10,3 +10,7 @@ Projeto feito com HTML, CSS e JavaScript.
 - HTML
 - CSS
 - JavaScript
+
+Projeto desenvolvido com JavaScript focado em lógica e manipulação de DOM.
+
+🔗 Acesse:https://devsoares22.github.io/Relogio-Digital/
